@@ -5,4 +5,11 @@ Hello software architecture world!
     ------------------------------
     [🗺️]: "Hello World, if necessary! 🎯"
 
+<br/>
 
+---
+
+> ## 🧰 Tools
+
+- 🆓 Drawing tool [<https://draw.io>]
+- 🆓 VScode Extension [<https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio>]
