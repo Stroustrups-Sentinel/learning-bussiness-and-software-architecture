@@ -1,6 +1,8 @@
 Hello business world!  
 Hello software architecture world!  
 
-    [💼]: "Hello World, ka-ching! 🪙"
+    [💼]: "Hello World, for a revenue boost! 🪙"
     ------------------------------
-    [🗺️]: "Hello World if necessary! 🎯"
+    [🗺️]: "Hello World, if necessary! 🎯"
+
+
