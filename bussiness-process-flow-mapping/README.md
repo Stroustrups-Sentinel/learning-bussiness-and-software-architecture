@@ -26,13 +26,13 @@ hello business!
 
 |Topic | Completed | Comment|
 |---|:---:|---|
-|introduction|⭕ | |
-|Methodology|⭕ | |
-|Business Process Pre-Mapping|⭕ | |
-|Business Process Mapping|⭕ | |
-|Business Challenges and Risks|⭕ | |
-|Business Process Chart Types|⭕ | |
-|Rules of Engagement|⭕ | |
+|introduction|✅ | |
+|Methodology|✅ | |
+|Business Process Pre-Mapping|✅ | |
+|Business Process Mapping|✅ | |
+|Business Challenges and Risks|✅ | |
+|Business Process Chart Types|✅ | |
+|Rules of Engagement|✅ | |
 |Workflow Diagrams|⭕ | |
 |Basic Flowchart|⭕ | |
 |Cross-Functional Flowchart|⭕ | |
